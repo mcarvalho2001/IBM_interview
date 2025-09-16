@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Another file named C
+=======
+File C
+>>>>>>> feature/to_merge
